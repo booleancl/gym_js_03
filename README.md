@@ -1,6 +1,4 @@
-# Recap modules 1 and 2
+# Recap module 4
 
-## Módulo 1: Repaso de fundamentos de Javascript
-
-## Módulo 2: ES6+
+## Módulo 1: Evento y AJAX
 

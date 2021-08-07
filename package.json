@@ -1,28 +1,23 @@
 {
-  "name": "javascript-lab01",
+  "name": "gym_js_03",
   "version": "1.0.0",
-  "description": "## Módulo 1: Repaso de fundamentos de Javascript. Conocer la sintáxis fundamental de Javascript en un contexto de propósito general. ## Unidad 1: Tipos de datos primitivos",
+  "description": "## Módulo 1: Repaso de fundamentos de Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch",
-    "test:ci": "jest --runInBand"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/booleancl/javascript-lab01.git"
+    "url": "git+https://github.com/booleancl/gym_js_03.git"
   },
   "keywords": [],
-  "author": "Academia Boolean",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/booleancl/javascript-lab01/issues"
+    "url": "https://github.com/booleancl/gym_js_03/issues"
   },
-  "homepage": "https://github.com/booleancl/javascript-lab01#readme",
+  "homepage": "https://github.com/booleancl/gym_js_03#readme",
   "devDependencies": {
-    "jest": "^27.0.5"
-  },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "bignumber.js": "^9.0.1"
+    "jest": "^27.0.6"
   }
 }
